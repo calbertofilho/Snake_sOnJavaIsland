@@ -9,10 +9,9 @@
     <b>Table of contents</b> <i>(Click to expand)</i>
   </summary>
 
-- [Chapter 1](#Chapter-1)
-  * [Sub 1.1](#Sub-1.1)
-- [Chapter 2](#Chapter-2)
-
+- [Chapter 1](#chapter-1)
+  * [Sub 1.1](#sub-1.1)
+- [Chapter 2](#chapter-2)
 </details>
 
 # Chapter 1
