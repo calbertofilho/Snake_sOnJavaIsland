@@ -10,7 +10,7 @@
   </summary>
 
 - [Chapter 1](#chapter-1)
-  * [Sub 1.1](#sub-1.1)
+  * [Sub 1.1](#sub-11)
 - [Chapter 2](#chapter-2)
 </details>
 
